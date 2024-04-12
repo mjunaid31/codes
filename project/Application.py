@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.integrate import odeint
-from Library_term_project import *
+#
 
 import numpy as np
 import matplotlib.pyplot as plt
